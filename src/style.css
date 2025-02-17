@@ -53,7 +53,7 @@ nav ul li a {
 }
 
 .hero {
- background-image: url(/images/outsideview.jpg);
+ background-image: url(../public/images/outsideview.jpg);
  background-position: center;
  background-size: cover;
  background-repeat: no-repeat;
@@ -71,7 +71,7 @@ nav ul li a {
 
 .hero-content {
   background: rgb(56, 138, 40);
-  padding: 20px;
+  padding: 30px;
   border-radius: 10px;
 }
 
