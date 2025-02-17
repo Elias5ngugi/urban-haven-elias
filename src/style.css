@@ -10,6 +10,9 @@ body {
   color: #333;
   line-height: 1.6;
 }
+span{
+  color: rgb(56, 214, 56);
+}
 
 
 header {
@@ -57,7 +60,6 @@ nav ul li a {
  background-position: center;
  background-size: cover;
  background-repeat: no-repeat;
-  
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
@@ -67,12 +69,13 @@ nav ul li a {
   text-align: center;
   color:white;
   padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .hero-content {
-  background: rgb(56, 138, 40);
-  padding: 30px;
-  border-radius: 10px;
+  background: rgb(71, 199, 46);
+  padding: 40px;
+  border-radius: 200px;
 }
 
 .spaces {
@@ -183,6 +186,8 @@ h4{
 }
 footer{
   text-align: center;
+  padding: 30px;
+  color: #2a82da;
 }
 
 
